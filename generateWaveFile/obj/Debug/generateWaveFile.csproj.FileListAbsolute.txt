@@ -1,0 +1,12 @@
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\bin\Debug\generateWaveFile.exe.config
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\obj\Debug\generateWaveFile.csprojResolveAssemblyReference.cache
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\obj\Debug\generateWaveFile.Form1.resources
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\obj\Debug\generateWaveFile.Properties.Resources.resources
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\obj\Debug\generateWaveFile.csproj.GenerateResource.Cache
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\bin\Debug\generateWaveFile.exe
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\bin\Debug\generateWaveFile.pdb
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\bin\Debug\NAudio.dll
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\bin\Debug\NAudio.xml
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\obj\Debug\generateWaveFile.exe
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\obj\Debug\generateWaveFile.pdb
+C:\Users\Tiew\Desktop\Visual Studio_FYP\generateWaveFile\generateWaveFile\obj\Debug\Voice_Bot.Form1.resources
