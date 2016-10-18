@@ -18,7 +18,7 @@ namespace generateWaveFile
     {
         SpeechSynthesizer s = new SpeechSynthesizer();
         Boolean wake = true;
-        String TESTING_SAMPLE = "200";
+        String TESTING_SAMPLE = "100    ";
         SerialPort port = new SerialPort("COM4", 9600, Parity.None, 8, StopBits.One);
 
         Choices list = new Choices();
